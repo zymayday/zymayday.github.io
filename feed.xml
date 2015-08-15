@@ -6,8 +6,8 @@
 </description>
     <link>zymayday.github.io/</link>
     <atom:link href="zymayday.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 15 Aug 2015 23:04:46 +0800</pubDate>
-    <lastBuildDate>Sat, 15 Aug 2015 23:04:46 +0800</lastBuildDate>
+    <pubDate>Sat, 15 Aug 2015 23:15:43 +0800</pubDate>
+    <lastBuildDate>Sat, 15 Aug 2015 23:15:43 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -35,6 +35,24 @@
         <category>jekyll</category>
         
         <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Fury road</title>
+        <description>&lt;hr /&gt;
+&lt;p&gt;layout: post
+title:  “Fury Road!”
+date:   2015-08-15 23:01:00
+categories: jekyll update
+–&lt;/p&gt;
+
+&lt;p&gt;This is fun!&lt;/p&gt;
+</description>
+        <pubDate>Sat, 15 Aug 2015 00:00:00 +0800</pubDate>
+        <link>zymayday.github.io/2015/08/15/Fury%20Road.html</link>
+        <guid isPermaLink="true">zymayday.github.io/2015/08/15/Fury%20Road.html</guid>
+        
         
       </item>
     
