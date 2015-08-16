@@ -1,25 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Welcome to hong kong</title>
-    <description>To record. To Empower. To be empowered
+    <title>Hide in crowd</title>
+    <description>To record. To explore. To be empowered
 </description>
     <link>zymayday.github.io/</link>
     <atom:link href="zymayday.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 16 Aug 2015 09:01:46 +0800</pubDate>
-    <lastBuildDate>Sun, 16 Aug 2015 09:01:46 +0800</lastBuildDate>
+    <pubDate>Sun, 16 Aug 2015 09:48:03 +0800</pubDate>
+    <lastBuildDate>Sun, 16 Aug 2015 09:48:03 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
-        <title>Welcome to Hong Kong!</title>
+        <title>TSZ Shan Monastery!</title>
         <description>&lt;p&gt;&lt;img src=&quot;/asset/tzshan/view1.JPG&quot; alt=&quot;Beautiful View&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sun, 16 Aug 2015 08:10:00 +0800</pubDate>
-        <link>zymayday.github.io/life/2015/08/16/welcome-to-hong-kong.html</link>
-        <guid isPermaLink="true">zymayday.github.io/life/2015/08/16/welcome-to-hong-kong.html</guid>
+        <pubDate>Sun, 16 Aug 2015 00:00:00 +0800</pubDate>
+        <link>zymayday.github.io/life/in/hong/kong/2015/08/16/welcome-to-hong-kong.html</link>
+        <guid isPermaLink="true">zymayday.github.io/life/in/hong/kong/2015/08/16/welcome-to-hong-kong.html</guid>
         
         
         <category>life</category>
+        
+        <category>in</category>
+        
+        <category>hong</category>
+        
+        <category>kong</category>
         
       </item>
     
